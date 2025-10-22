@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1761172704469" clover="3.2.0">
+  <project timestamp="1761172704469" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="20" coveredelements="20" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\Bruno Oliveira\OneDrive\Documentos\UFMG\Oitavo Período\Teste de Software\TPs\seminario-teste-de-software\index.js">
+      <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="15" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="26" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

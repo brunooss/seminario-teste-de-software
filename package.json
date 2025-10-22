@@ -1,0 +1,24 @@
+{
+  "name": "seminario-teste-de-software",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunooss/seminario-teste-de-software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunooss/seminario-teste-de-software/issues"
+  },
+  "homepage": "https://github.com/brunooss/seminario-teste-de-software#readme",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.0.1",
+    "vitest": "^4.0.1"
+  }
+}
