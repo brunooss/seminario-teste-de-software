@@ -19,17 +19,6 @@ class MathOperations {
     }
     return a / b;
   }
-
-  power(a, b) {
-    return Math.pow(a, b);
-  }
-
-  squareRoot(a) {
-    if (a < 0) {
-      throw new Error("Cannot calculate square root of negative number");
-    }
-    return Math.sqrt(a);
-  }
 }
 
 export default MathOperations;
