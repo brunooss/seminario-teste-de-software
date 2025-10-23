@@ -1,3 +1,5 @@
+import AdvancedOperations from "./advancedOperations";
+
 class MathOperations {
   add(a, b) {
     return a + b;
@@ -13,7 +15,7 @@ class MathOperations {
 
   divide(a, b) {
     if (b === 0) {
-      throw new Error('Division by zero is not allowed');
+      throw new Error("Division by zero is not allowed");
     }
     return a / b;
   }
@@ -24,7 +26,7 @@ class MathOperations {
 
   squareRoot(a) {
     if (a < 0) {
-      throw new Error('Cannot calculate square root of negative number');
+      throw new Error("Cannot calculate square root of negative number");
     }
     return Math.sqrt(a);
   }
